@@ -43,14 +43,15 @@ Northwind-Data-Warehouse/
 │   └── etl.sql                    # ETL implementation
 │
 ├── 04-Partitioning/
-│   └── partitioning.sql           # Table partitioning
+│   ├── partitioning.sql           # Table partitioning
+│   └── composite-partitioning.sql  # Table partitioning
 │
 ├── 05-Triggers/
 │   └── triggers.sql               # SQL Server triggers
 │
 ├── 06-Analytics/
 │   ├── analytical-queries.sql     # Analytical SQL queries
-│   └── ranking-queries.sql        # Ranking SQL queries
+│   └── analytical-ranking-queries.sql        # Ranking SQL queries
 │
 └── README.md
 ```
