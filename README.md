@@ -49,7 +49,8 @@ Northwind-Data-Warehouse/
 │   └── triggers.sql               # SQL Server triggers
 │
 ├── 06-Analytics/
-│   └── analytical-queries.sql     # Analytical SQL queries
+│   ├── analytical-queries.sql     # Analytical SQL queries
+│   └── ranking-queries.sql        # Ranking SQL queries
 │
 └── README.md
 ```
